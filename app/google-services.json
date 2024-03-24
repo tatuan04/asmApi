@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187384991569",
+    "project_id": "asmapi-33fde",
+    "storage_bucket": "asmapi-33fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187384991569:android:dfc1f47dde5e0aec2acd70",
+        "android_client_info": {
+          "package_name": "com.tuan04.asm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWnJzoj-Kk5rKrnP3NviZAC8uHaqmcfGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

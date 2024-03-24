@@ -1,0 +1,12 @@
+
+J
+java:S16041"(Make this anonymous inner class a lambda(¥íîŸÿÿÿÿÿ8ı«ç1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¤Ûôşÿÿÿÿ8ì€şßæ1
+N
+java:S1602",Remove useless curly braces around statement(îèæ—ıÿÿÿÿ8öÜ—ç1
+R
+java:S1874-"6Remove this use of "ProgressDialog"; it is deprecated.(•’è8çî·ç1
+R
+java:S1874-"6Remove this use of "ProgressDialog"; it is deprecated.(•’è8èî·ç1
+T
+java:S1874."2Remove this use of "setMessage"; it is deprecated.(ñËÄİÿÿÿÿÿ8èî·ç1
